@@ -1,0 +1,11 @@
+═══════════════════════════════════════
+  SISTEMA DE ASISTENCIA - CAMBIOS
+═══════════════════════════════════════
+
+Versión 1.0.0 (12/10/2026)
+────────────────────────────
+- Versión inicial
+- Módulo de horarios (Docentes, Inicial, Primaria, Admin)
+- Importación desde biométricos
+- Reportes en Excel
+- Auto-llenado con IA
